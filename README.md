@@ -153,7 +153,3 @@ The application employs **JWT (JSON Web Token)** for stateless authentication.
 - Optimized frontend performance using **Vite** and implemented a responsive, modern UI with **Tailwind CSS**, achieving a seamless user experience across devices.
 - Leveraged **Spring Data JPA** and **MySQL** for robust data persistence, implementing complex queries for transaction filtering and aggregation.
 
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
