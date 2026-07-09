@@ -1,4 +1,4 @@
-# Expense Tracker 💰
+# personal-finance-management-system 💰
 
 ## 🌐 Live Demo
 https://expense-tracker-lemon-rho.vercel.app
