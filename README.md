@@ -138,13 +138,4 @@ The application currently uses a simplified authentication model for development
 - [ ] **Report Export**: Export transaction history to PDF or Excel.
 - [ ] **Dark Mode**: Improved theme switching stability.
 
----
-
-## 👔 Resume-Friendly Description
-
-**Full-Stack Web Developer | Expense Tracker Project**
-- Developed a comprehensive full-stack Expense Tracker using **Spring Boot** and **React (TypeScript)**, enabling users to manage finances with 100% data integrity.
-- Designed an interactive analytics dashboard with **Recharts**, providing users with visual insights into spending habits and budget allocation.
-- Optimized frontend performance using **Vite** and implemented a responsive, modern UI with **Tailwind CSS**, achieving a seamless user experience across devices.
-- Leveraged **Spring Data JPA** and **MySQL** for robust data persistence, implementing complex queries for transaction filtering and aggregation.
 
